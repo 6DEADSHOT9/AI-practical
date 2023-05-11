@@ -11,6 +11,8 @@
  7. ### To add the missing value in any data set.
  8. ### Perform and plot under fitting and overfitting in a data set.
  9. ### Implementation of clustering and classification algorithms.
+    - Hierarchical clustering algorithms (AHC)
+    -  Density-based clustering algorithms (DBSCAN)
  
  
  
