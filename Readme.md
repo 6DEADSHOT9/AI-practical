@@ -10,4 +10,8 @@
     -  Write a logic programming paradigm implement using pyDatalog
  7. ### To add the missing value in any data set.
  8. ### Perform and plot under fitting and overfitting in a data set.
- 9. ### Implementation of clustering and classification algorithms.   
+ 9. ### Implementation of clustering and classification algorithms.
+ 
+ 
+ 
+![](https://datasciencedojo.com/wp-content/uploads/20-1.jpg)
